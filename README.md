@@ -1,6 +1,6 @@
 # Udagram Image Filtering Microservice
 
-This is my submission for Project 2 - Engineering Full Stack Apps in the Cloud, for the Udacity Cloud Developer Nanodegr
+This is my submission for Project 2 - Engineering Full Stack Apps in the Cloud, for the Udacity Cloud Developer Nanodegree.
 
 It is a Node.js service that takes an image url as a query parameter and returns a formatted image:
 
