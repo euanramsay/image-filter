@@ -14,6 +14,7 @@ import express from 'express';
   // Use the body parser middleware for post requests
   app.use(bodyParser.json());
 
+  // Get and filter the image from image_url query parameter
   app.get("/filteredimage/", (req, res) => {
     const image_url: string = req.query.image_url;
     if (!image_url) {
